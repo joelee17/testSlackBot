@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/joelee17/testSlackBot#readme",
   "dependencies": {
+    "axios": "^0.19.2",
     "slackbots": "^1.2.0"
   }
 }
