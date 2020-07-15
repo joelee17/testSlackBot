@@ -21,6 +21,7 @@
   "homepage": "https://github.com/joelee17/testSlackBot#readme",
   "dependencies": {
     "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
     "slackbots": "^1.2.0"
   }
 }
