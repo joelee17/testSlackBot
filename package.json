@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/joelee17/testSlackBot/issues"
   },
-  "homepage": "https://github.com/joelee17/testSlackBot#readme"
+  "homepage": "https://github.com/joelee17/testSlackBot#readme",
+  "dependencies": {
+    "slackbots": "^1.2.0"
+  }
 }
